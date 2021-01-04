@@ -229,7 +229,7 @@ $(function() {
     socket.on('login', (data) => {
         connected = true;
         // Display the welcome message
-        var message = "Welcome to Private chat – ";
+        var message = "Welcome to Private chatting cutie pie ";
         log(message, {
             prepend: true
         });
